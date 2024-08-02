@@ -1,3 +1,4 @@
+**Hi!  I'm Brian**,
 - 👋 Hi, I’m @codingOkie
 - 👀 I’m interested in Software Development, Machine Learning and Energy
 - 🌱 I’m currently learning Data Structures and Algorithms and Machine Learning.
